@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'NexaFreeLightwebfont';
+	src: url('NexaFreeLightwebfont.eot');
+	src: local('NexaFreeLightwebfont'), url('NexaFreeLightwebfont.woff') format('woff'), url('NexaFreeLightwebfont.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_1517">Text with this font applied</p> */
+.fontsforweb_fontid_1517 {
+	font-family: 'NexaFreeLightwebfont' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
