@@ -59,9 +59,10 @@ Last change:    22/12/2015
 }
 .tagline{
     text-align: center;
-    background-color: #E9B384;
+    background-color: #e8f9fd;
     padding: 20px;
     margin-right: 0px;
+    height: 720px;
 }
 body{	
 	font-family: 'Raleway', sans-serif;
@@ -6250,6 +6251,15 @@ HOME SLIDE
 }
 .footer-style2 .footer-menu a:hover{
     color: #e1571a;
+}
+#footer{
+    background-color: #fff;
+    text-align: center;
+    margin-top: 100px;
+    /* padding: 5% 0% 5% 5%; */
+}
+.footer-icon{
+    margin: 10px;
 }
 /* LASTEST POST */
 .list-latest-news li{
