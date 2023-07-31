@@ -45,8 +45,9 @@ Last change:    22/12/2015
  COMMON STYLES
 ------------------*/
 .logo{
-    height: 10px;
-    margin-top: 2px;
+    width: 300px;
+    height: 5px;
+    margin-top: 1px;
 }
 .tagline-heading{
     font-family: 'Hanken Grotesk', sans-serif;
@@ -464,7 +465,8 @@ img.alignleft {
 }
 
 .header .logo .headlogo{
-    width: 60% !important;
+
+    width: 100% !important;
 }
 .header-container{
     position: relative;
@@ -504,10 +506,10 @@ img.alignleft {
     -ms-box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.176);
     box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.176);
     padding-bottom: 0;
-    z-index: 100;
+    z-index: 72px;
     padding-top: 5px;
     background-color: rgba(255,255,255,1);
-	height:72px;
+	height:80px;
 	border-bottom:1px solid #095b8a;
 	
 }
