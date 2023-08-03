@@ -97,6 +97,7 @@ h1,h2,h3,h5,h6{
     line-height: 1.3em;
     margin-top: 0;
     margin-bottom: 18px;
+    text-align: center;
 }
 h4{ color: #303030;
     font-weight:700 ;
@@ -3099,9 +3100,9 @@ img.alignleft {
 .red-heading2{color:#ff0d0f; line-height:26px;}
 .white-heading{color:#fff; font-weight:300; line-height:26px;}
 .white-heading1{color:#fff; font-weight:400; font-size:27px !important; line-height:26px;}
-.black-heading{color:#000; font-weight:500; line-height:26px;}
-.black-heading1{color:#000 !important; font-weight:200; line-height:26px;}
-.black-heading2{color:#000 !important; font-weight:400; line-height:26px;}
+.black-heading{color:#000; line-height:26px;}
+.black-heading1{color:#000 !important; line-height:26px;}
+.black-heading2{color:#000 !important; line-height:26px;}
 .white-heading3{color:#000 !important; font-weight:500; font-size:17px; line-height:26px;}
 .blue-heading2{color:#000; font-weight:300; font-size:30px !important; line-height:26px;}
 .blue-heading3{color:#095b8a; font-weight:300; font-size:60px !important; background:none; background-position:top; float:left; line-height:26px;}
@@ -3116,7 +3117,7 @@ img.alignleft {
 .line{width:2px; height:570px; background-color:#d3ba39; text-align:center; margin:0px auto 0px auto;}
 .line1{width:1px; height:300px; background-color:#d3ba39; text-align:center; margin:20px auto 0px auto;}
 .line2{width:1px; height:100px; background-color:#d3ba39; text-align:center; margin:30px auto 0px auto;}
-.horizontal-line{width:230px; border-bottom:1px solid #d3ba39; padding:10px 0px;}
+.horizontal-line{ border-bottom:1px solid #d3ba39; padding:10px 0px;}
 .horizontal-line1{width:230px; border-bottom:1px solid #d3ba39; padding:10px 0px;}
 .horizontal-line2{width:250px; border-bottom:1px solid #d3ba39; padding:10px 0px; margin:70px auto;}
 /* .footer-social{ margin-right:7px; color: #fff;}
@@ -9459,6 +9460,7 @@ span.required {
     background-image: url(../images/bg-parallax18.html);
 }
 .section-ourblog{
+    text-align: center;
     padding: 95px 0 60px;
 }
 .section-pricing .row-text{
@@ -10055,9 +10057,9 @@ span.required {
 .red-heading1{color:#ff0d0f; font-weight:300; line-height:26px;}
 .white-heading{color:#fff; font-weight:300; line-height:26px;}
 .white-heading1{color:#fff; font-weight:400; font-size:27px !important; line-height:26px;}
-.black-heading{color:#000; font-weight:500; line-height:26px;}
-.black-heading1{color:#000 !important; font-weight:200; line-height:26px;}
-.black-heading2{color:#000 !important; font-weight:400; line-height:26px;}
+.black-heading{color:#000; line-height:26px;}
+.black-heading1{color:#000 !important; line-height:26px;}
+.black-heading2{color:#000 !important; line-height:26px;}
 .blue-heading2{color:#095b8a; font-weight:300; font-size:30px !important; line-height:26px;}
 .blue-heading3{color:#095b8a; font-weight:300; font-size:60px !important; background:none; background-position:top; float:left; line-height:26px;}
 .blue-heading{color:#095b8a; font-weight:500; line-height:26px;}
