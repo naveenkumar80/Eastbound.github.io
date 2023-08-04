@@ -1448,8 +1448,8 @@ img.alignleft {
 .testimonials-style3 .owl-next{
     width: 50px;
     height: 50px;
-    border-color: #d3ba39;
-    color: #fff;
+    border-color: #fff;
+    color: red;
     background: transparent;
     line-height: 48px;
     -webkit-border-radius: 50%;
@@ -1460,7 +1460,7 @@ img.alignleft {
     position: absolute;
     top: 40%;
   
-	background-color:#d3ba39;
+	background-color:#fff;
 }
 .testimonials-style3 .owl-prev:hover,
 .testimonials-style3 .owl-next:hover{
