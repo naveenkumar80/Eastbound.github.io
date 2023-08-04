@@ -5292,12 +5292,6 @@ HOME SLIDE
 .pricing-table-style2 .price .currency, .pricing-table-style2 .price .period{
     color: #515151;
 }
-.blog-item{
-    width: 323px;
-    position: absolute;
-    left: 323px;
-    top: 508px;
-}
 
 .button-custom.round, .button.round{
     -webkit-border-radius: 5px;
