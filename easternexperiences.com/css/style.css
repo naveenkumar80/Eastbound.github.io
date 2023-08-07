@@ -1421,7 +1421,7 @@ img.alignleft {
     background-color: #e8e8e8;
 }
 .testimonials-style3 .testimonial h6{
-    color: #000;
+    color: #242476;
     text-transform: uppercase;
 }
 
@@ -5708,7 +5708,7 @@ HOME SLIDE
 .contact-form input[type="email"],
 .contact-form textarea{
     background: transparent;
-    border-color: #d3ba39;
+    border-color: #007bb6;
     color: #ffffff;
     width: 100%;
     margin-bottom: 30px;
@@ -6700,7 +6700,7 @@ HOME SLIDE
     text-align: center;
 }
 .testimonials-style3.light .owl-nav > div{
-    background-color: #000000;
+    background-color: #00aced;
     border-color: #ffffff;
     margin: 0 5px;
     opacity: 0.3;
