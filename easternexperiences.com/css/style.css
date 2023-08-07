@@ -121,6 +121,7 @@ h5{
 }
 h6{
 	font-size: 14px;
+    color: #000;
 }
 ul, ol{
 	margin: 0;
@@ -1420,7 +1421,7 @@ img.alignleft {
     background-color: #e8e8e8;
 }
 .testimonials-style3 .testimonial h6{
-    color: #d3ba39;
+    color: #000;
     text-transform: uppercase;
 }
 
